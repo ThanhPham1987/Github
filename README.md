@@ -25,3 +25,6 @@ git push
   
   + Method
 
+Reference:
+
+[1] https://phamdinhkhanh.github.io/deepai-book/ch_appendix/appendix_OOP.html
