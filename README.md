@@ -18,12 +18,6 @@ Push change in local into github
 
 git push
 
-#OOP
-- Class includes two component:
-
-  + Attribute
-  
-  + Method
 
 Reference:
 
