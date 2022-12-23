@@ -21,6 +21,11 @@ git commit -m "Update"
 
 git push
 
+5. Git branch
+
+git clone --single-branch --branch publication https://github.com/khanhha/crack_segmentation.git
+
+
 Reference:
 
 [1] https://phamdinhkhanh.github.io/deepai-book/ch_appendix/appendix_OOP.html
