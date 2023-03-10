@@ -34,7 +34,7 @@ ssh-keygen -t ed25519 -C "thanhphq87@gmail.com"
 
 Step 2: Enter many times
 
-Step 3: nano ~/.ssh/id_ed25519.pub or use cat
+Step 3: sudo nano ~/.ssh/id_ed25519.pub or use cat
 
 Step 4: Copy content of file id_ed25519.pb into github
 
