@@ -44,6 +44,9 @@ Reference:
 
 __How to set up for human capacity__
 
+![Screenshot from 2023-05-13 11-09-09](https://github.com/ThanhPham1987/Github/assets/22832922/72e21793-b653-4a32-be33-978ea30600cb)
+
+
 Reference
 
 [1] https://support.atlassian.com/bitbucket-cloud/docs/set-up-personal-ssh-keys-on-linux/
