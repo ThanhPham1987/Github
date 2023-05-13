@@ -41,3 +41,11 @@ Step 4: Copy content of file id_ed25519.pb into github
 Reference:
 
 [1] https://phamdinhkhanh.github.io/deepai-book/ch_appendix/appendix_OOP.html
+
+__How to set up for human capacity__
+
+Reference
+
+[1] https://support.atlassian.com/bitbucket-cloud/docs/set-up-personal-ssh-keys-on-linux/
+
+
