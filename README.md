@@ -36,7 +36,13 @@ Step 2: Enter many times
 
 Step 3: sudo nano ~/.ssh/id_ed25519.pub or use cat
 
-Step 4: Copy content of file id_ed25519.pb into github
+Step 4: Copy all content of file id_ed25519.pb into github
+
+Example: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPtzB7uhHSWahouptEfRio0EuuFgkwZzbCkcp5sB4nS+ thanhphq87@gmail.com
+
+Step 5: Use ssh protocol
+
+git clone git@github.com:ThanhPham1987/OCR_JP_EN.git
 
 Reference:
 
